@@ -1,0 +1,12 @@
+changes
+1)home page index add in all the courses
+2)designing
+3)contact us page 
+4)test
+5)feedback
+6)admin module
+7)login page /sign up page add karvanu
+extra 
+1)progess batavano
+2)login thaya to j access to course
+3)navbar changes
